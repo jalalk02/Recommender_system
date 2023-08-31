@@ -1,4 +1,4 @@
-# Movie Recommender system
+# User-based Movie Recommender system
 User-based Collaborative Filtering Movie Recommender based on MovieLens dataset
 
 # # Steps
